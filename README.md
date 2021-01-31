@@ -10,3 +10,7 @@ I'm Flávio de Assis, I'm a data professional passionate about cloud, DevOps con
 - 💬 Ask me about tech, electronics, food, Naruto, Dragon Ball.
 - ⚡ Technologies: Python, JavaScript, Terraform, Docker, Kubernetes.
 - ☁️ Cloud: GCP, Azure, AWS.
+
+
+
+![My Status](https://github-readme-stats.vercel.app/api?username=flavio-assis&show_icons=true&theme=merko)
