@@ -11,6 +11,6 @@ I'm Flávio de Assis, I'm a data professional passionate about cloud, DevOps con
 - ⚡ Technologies: Python, JavaScript, Terraform, Docker, Kubernetes.
 - ☁️ Cloud: GCP, Azure, AWS.
 
-![hi-gif](https://i.imgur.com/crrMNCRh.gif)
+![hi-gif](https://i.imgur.com/crrMNCRm.gif)
 
 ![My Status](https://github-readme-stats.vercel.app/api?username=flavio-assis&show_icons=true&theme=merko)
