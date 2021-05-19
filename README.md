@@ -14,9 +14,9 @@ I'm Flávio de Assis, I'm a data professional passionate about cloud, DevOps con
 ![My Status](https://github-readme-stats.vercel.app/api?username=flavio-assis&show_icons=true&theme=merko)
 
 ### Bagdes
-<img src="https://cdn.qwiklabs.com/ZE9hmZ5hJkWpb2%2Bsug1vDYCrTyVJboF0DZ9zkP%2BzgOo%3D" width="180" height="180"/> 
-<img src="https://cdn.qwiklabs.com/M%2Fvczg6VXGDln9SUintYf6L%2F9e9WfjxQwheeciWNSiA%3D" width="180" height="180"/> 
-<img src="https://cdn.qwiklabs.com/cwjT%2B56NWniWRx%2BC17wc1l%2Ba9IcE0z3nJChIyQ%2BINGA%3D" width="180" height="180"/> 
+| Big Data On AWS | Engineer Data in Google Cloud | Data Engineering |
+| --------------- | :---------------------------: | ---------------: |
+| <img src="https://cdn.qwiklabs.com/ZE9hmZ5hJkWpb2%2Bsug1vDYCrTyVJboF0DZ9zkP%2BzgOo%3D" width="180" height="180"/> | <img src="https://cdn.qwiklabs.com/cwjT%2B56NWniWRx%2BC17wc1l%2Ba9IcE0z3nJChIyQ%2BINGA%3D" width="180" height="180"/> | <img src="https://cdn.qwiklabs.com/M%2Fvczg6VXGDln9SUintYf6L%2F9e9WfjxQwheeciWNSiA%3D" width="180" height="180"/>
 
 ![Imgur](https://i.imgur.com/crrMNCR.gif)
 
