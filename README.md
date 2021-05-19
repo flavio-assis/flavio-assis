@@ -15,6 +15,8 @@ I'm Flávio de Assis, I'm a data professional passionate about cloud, DevOps con
 
 ### Bagdes
 <img src="https://cdn.qwiklabs.com/ZE9hmZ5hJkWpb2%2Bsug1vDYCrTyVJboF0DZ9zkP%2BzgOo%3D" width="180" height="180"/> 
+<img src="https://www.qwiklabs.com/public_profiles/b8dde2b4-caf1-426f-9048-8f7301e5bfa1/badges/298511" width="180" height="180"/> 
+<img src="https://www.qwiklabs.com/public_profiles/b8dde2b4-caf1-426f-9048-8f7301e5bfa1/badges/241398" width="180" height="180"/> 
 
 ![Imgur](https://i.imgur.com/crrMNCR.gif)
 
