@@ -14,7 +14,7 @@ I'm Flávio de Assis, I'm a data professional passionate about cloud, DevOps con
 ![My Status](https://github-readme-stats.vercel.app/api?username=flavio-assis&show_icons=true&theme=merko)
 
 ### Bagdes
-<img src="https://cdn.qwiklabs.com/ZE9hmZ5hJkWpb2%2Bsug1vDYCrTyVJboF0DZ9zkP%2BzgOo%3D"/> 
+<img src="https://cdn.qwiklabs.com/ZE9hmZ5hJkWpb2%2Bsug1vDYCrTyVJboF0DZ9zkP%2BzgOo%3D" width="200" height="200"/> 
 
 ![Imgur](https://i.imgur.com/crrMNCR.gif)
 
